@@ -1,4 +1,4 @@
-# Podomoro_timer
+# Podomoro Timer
 Projet React Native
 Le timer affiche les minutes et secondes restantes
 / Un titre alterne entre « Travail » et « Pause »
