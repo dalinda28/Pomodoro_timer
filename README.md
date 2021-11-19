@@ -9,7 +9,7 @@ Le timer affiche les minutes et secondes restantes
 / Boutons permettant start, stop et reset
 / Options pour choisir le temps de travail et pause
 
-##Screenshoots 
+## Screenshoots 
 ![alt text](https://github.com//dalinda28/Pomodoro_timer/blob/main/Pomodoro1.png?raw=true)
 
 ![alt text](https://github.com//dalinda28/Pomodoro_timer/blob/main/Pomodoro2.png?raw=true)
